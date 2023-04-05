@@ -10,10 +10,16 @@
     }
   ],
   "prefer-stable": true,
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/ardabeyazoglu/php-ntlm"
+    }
+  ],
   "require": {
-    "php": ">=7.1.0",
+    "php": ">=8.1.0",
     "ext-soap": "*",
-    "jamesiarmes/php-ntlm": "~1.0"
+    "jamesiarmes/php-ntlm": "dev-master"
   },
   "require-dev": {
     "mustache/mustache": "~2.0",

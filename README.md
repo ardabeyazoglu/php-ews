@@ -1,5 +1,7 @@
 # PHP Exchange Web Services
 
+REASON TO FORK: Added php8.1 support
+
 The PHP Exchange Web Services library (php-ews) is intended to make
 communication with Microsoft Exchange servers using Exchange Web Services
 easier. It handles the NTLM authentication required to use the SOAP
@@ -12,7 +14,7 @@ required to form a request.
 ## Dependencies
 
 * Composer
-* PHP 5.4 or greater
+* PHP 8.1 or greater
 * cURL with NTLM support (7.30.0+ recommended)
 * Exchange 2007 or later
 
