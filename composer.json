@@ -13,7 +13,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/ardabeyazoglu/php-ntlm"
+      "url": "https://github.com/kivateknoloji/php-ntlm"
     }
   ],
   "require": {
